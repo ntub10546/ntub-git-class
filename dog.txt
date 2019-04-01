@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello master!!
-=======
-hello cat!!
->>>>>>> cat
