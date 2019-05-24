@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- bg -->
+    <View
+        android:id="@+id/bg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-24dp"
+        android:background="@drawable/signup_bg"
+        />
+
+    <!-- signup_inbg -->
+    <View
+        android:id="@+id/signup_inbg"
+        android:layout_width="339.5dp"
+        android:layout_height="543.91dp"
+        android:background="@drawable/signup_inbg"
+        android:gravity="center_horizontal" />
+
+    <!--layout_alignParentLeft="true"
+    android:layout_marginLeft="39.67dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="119.29dp"
+-->
+
+
+
+
+</android.support.constraint.ConstraintLayout>
